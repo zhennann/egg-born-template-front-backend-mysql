@@ -1,0 +1,26 @@
+{
+  "name": "egg-born-template-front-backend-mysql",
+  "version": "0.0.2",
+  "description": "egg-born-template-front-backend-mysql",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennann/egg-born-template-front-backend-mysql.git"
+  },
+  "keywords": [
+    "egg",
+    "egg-born",
+    "fullstack",
+    "boilerplate",
+    "template",
+    "front-backend-mysql"
+  ],
+  "author": "zhennann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhennann/egg-born-template-front-backend-mysql/issues"
+  },
+  "homepage": "https://github.com/zhennann/egg-born-template-front-backend-mysql#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
