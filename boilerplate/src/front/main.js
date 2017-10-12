@@ -1,12 +1,9 @@
-/*
-* @Author: zhennann
-* @Date:   2017-09-10 20:32:33
-* @Last Modified by:   zhennann
-* @Last Modified time: 2017-10-11 17:16:44
-*/
+// choose one
 
-// framework7 or vuerouter
+//   framework7
 import main from './framework7/main.js';
+
+//   vuerouter
 // import main from './vuerouter/main.js';
 
 // export

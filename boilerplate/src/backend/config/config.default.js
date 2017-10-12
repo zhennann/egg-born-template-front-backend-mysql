@@ -1,22 +1,19 @@
-/*
-* @Author: zhennann
-* @Date:   2017-09-19 23:39:57
-* @Last Modified by:   zhennann
-* @Last Modified time: 2017-10-10 18:37:04
-*/
-
 module.exports = appInfo => {
   const config = {};
 
-  // should change to your own
-  config.keys = appInfo.name + '_1505480866707_9889';
+  // keys
+  config.keys = appInfo.name + '_{{keys}}';
 
   // module config
-  config.module = {};
+  config.module = {
+    'aa-hello': {
+    },
+  };
 
   // mysql
   config.mysql = {
     clients: {
+      // donnot change the name
       __ebdb: {
         host: '127.0.0.1',
         port: '3306',

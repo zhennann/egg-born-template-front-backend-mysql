@@ -1,15 +1,10 @@
-/*
-* @Author: zhennann
-* @Date:   2017-09-20 22:54:59
-* @Last Modified by:   zhennann
-* @Last Modified time: 2017-09-27 23:58:10
-*/
-
+// backend
 const backend = {
   port: 7002,
   hostname: '127.0.0.1',
 };
 
+// front
 const front = {
   build: {
     title: 'egg-born starter',

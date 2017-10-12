@@ -1,10 +1,3 @@
-/*
-* @Author: zhennann
-* @Date:   2017-09-08 21:31:56
-* @Last Modified by:   zhennann
-* @Last Modified time: 2017-09-22 21:06:22
-*/
-
 let Vue;
 
 // import css

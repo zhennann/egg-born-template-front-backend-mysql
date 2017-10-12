@@ -2,7 +2,8 @@
   "name": "{{name}}",
   "version": "1.0.0",
   "description": "{{description}}",
-  "scripts": {
+  "scripts":
+  {
     "dev:front": "egg-born-bin front-dev",
     "build:front": "egg-born-bin front-build",
     "dev:backend": "egg-born-bin backend-dev",
@@ -13,21 +14,24 @@
     "start:backend": "egg-born-scripts backend-start --daemon",
     "stop:backend": "egg-born-scripts backend-stop"
   },
-  "repository": {
+  "repository":
+  {
     "type": "git",
     "url": ""
   },
   "author": "{{author}}",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies":
+  {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.5.0",
     "eslint-config-egg": "^5.1.0",
     "eslint-plugin-vuefix": "^0.2.0"
   },
-  "dependencies": {
+  "dependencies":
+  {
     "egg-born-front": "^0.0.4",
-    "egg-born-backend": "^0.0.5",
+    "egg-born-backend": "^0.0.6",
     "egg-born-bin": "^0.0.3",
     "egg-born-scripts": "^0.0.3"
   }

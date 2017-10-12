@@ -1,10 +1,3 @@
-/*
-* @Author: zhennann
-* @Date:   2017-09-12 16:22:41
-* @Last Modified by:   zhennann
-* @Last Modified time: 2017-09-27 14:28:53
-*/
-
 import Router from 'vue-router';
 import axios from 'axios';
 

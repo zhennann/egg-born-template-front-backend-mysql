@@ -26,7 +26,6 @@
             <f7-block-title>Navigation</f7-block-title>
             <f7-list>
               <f7-list-item link="/aa/hello/welcome/You" title="Welcome"></f7-list-item>
-              <f7-list-item link="/aa/hello/about" title="About"></f7-list-item>
               <f7-list-item link="/aa/hello/profile" title="Profile"></f7-list-item>
             </f7-list>
           </f7-page>

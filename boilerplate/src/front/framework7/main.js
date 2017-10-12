@@ -1,11 +1,3 @@
-/*
-* @Author: zhennann
-* @Date:   2017-09-10 20:32:33
-* @Last Modified by:   zhennann
-* @Last Modified time: 2017-10-11 15:45:05
-*/
-
-
 import axios from 'axios';
 
 // eslint-disable-next-line
