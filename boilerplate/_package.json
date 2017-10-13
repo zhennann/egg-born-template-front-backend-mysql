@@ -30,8 +30,8 @@
   },
   "dependencies":
   {
-    "egg-born-front": "^0.0.4",
-    "egg-born-backend": "^0.0.6",
+    "egg-born-front": "^0.0.5",
+    "egg-born-backend": "^0.0.7",
     "egg-born-bin": "^0.0.3",
     "egg-born-scripts": "^0.0.3"
   }
