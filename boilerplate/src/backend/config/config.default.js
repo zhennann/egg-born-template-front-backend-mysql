@@ -5,7 +5,7 @@ module.exports = appInfo => {
   config.keys = appInfo.name + '_{{keys}}';
 
   // module config
-  config.module = {
+  config.modules = {
     'aa-hello': {
     },
   };
