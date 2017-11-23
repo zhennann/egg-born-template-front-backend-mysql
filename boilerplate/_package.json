@@ -33,7 +33,7 @@
     "egg-born-front": "^1.0.17",
     "egg-born-backend": "^1.0.33",
     "egg-born-bin": "^1.0.2",
-    "egg-born-scripts": "^1.0.2",
+    "egg-born-scripts": "^1.0.3",
     "egg-born-module-a-version": "^1.0.19"
   }
 }
