@@ -1,3 +1,6 @@
+// title
+const title = 'egg-born starter';
+
 // backend
 const backend = {
   port: 7002,
@@ -7,10 +10,10 @@ const backend = {
 // front
 const front = {
   build: {
-    title: 'egg-born starter',
+    title,
   },
   dev: {
-    title: 'egg-born starter',
+    title,
     port: 9092,
     proxyTable: {
       '/api': {

@@ -14,7 +14,7 @@ import Framework7ThemeColors from 'framework7/dist/css/framework7.material.color
 */
 
 // eslint-disable-next-line
-import AppStyles from '../css/app.css';
+import AppStyles from '../assets/css/app.css';
 
 import App from './app';
 import config from '../config/config.js';
