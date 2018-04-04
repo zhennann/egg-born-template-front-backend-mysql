@@ -2,7 +2,7 @@ import Router from 'vue-router';
 import axios from 'axios';
 
 // eslint-disable-next-line
-import AppStyles from '../assets/css/app.css';
+import AppStyles from '../css/app.css';
 
 import App from './app';
 import Home from './home';
